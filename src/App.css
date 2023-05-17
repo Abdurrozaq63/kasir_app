@@ -1,0 +1,29 @@
+.card {
+  background: #bdc3c7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #bdc3c7,
+    #67717a
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffffff, #979797);
+  cursor: pointer;
+}
+.category-aktif{
+  background-color: black ;
+  color: white;
+}
+.list-group-item{
+  cursor: pointer;
+}
+.bp{
+  width: 95%;
+}
+.tb{
+  background-color: white;
+}
+.btn_plus{
+  margin-left: 6px;
+}
+.btn_mins{
+  margin-right: 6px;
+}
